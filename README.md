@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+**Lane and Road Damage Detection**
 
-You can use the [editor on GitHub](https://github.com/siju-samuel/road-and-damage-detection/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**1. Introduction**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Self-driving car is an active area of research. In traditional systems Road Lane Detection is one of the main concerns in the application of many self-driving car engineers.
 
-### Markdown
+Road damage detection has its immense utilization in many areas which are related to find the variations in normal patterns of roads and surfaces, so that appropriate actions against can take place on time.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2. Problem Statement**
 
-```markdown
-Syntax highlighted code block
+Human beings, when fully attentive, do quite well at identifying lane line markings under most driving conditions. Computers are not inherently good at doing the same. The project aims to train a model to get as good as humans at detecting lane lines, so the vehicle can take over this job from the human driver. From the project perspective, the problem is around detecting a line to fit for both the left and right lane lines.
 
-# Header 1
-## Header 2
-### Header 3
+Road transportation is one of the busiest and cheapest ways to connect one source point to its destination point. Failure of the road or surface due to traffic loading and poor maintenance cause degradation of the road surfaces leading to cracks, potholes or uneven surfaces. The project aims to detect the condition of the road by incorporating the visual examination and surveying tools, surface condition deficiencies.
 
-- Bulleted
-- List
+**3. Datasets**
 
-1. Numbered
-2. List
+1.[https://mycityreport.s3-ap-northeast-1.amazonaws.com/02\_RoadDamageDataset/RoadDamageDataset.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDataset.tar.gz) 1.7GB
 
-**Bold** and _Italic_ and `Code` text
+2.[https://cvit.iiit.ac.in/images/Projects/city-scale-roadaudit/release\_version\_v1.zip](https://cvit.iiit.ac.in/images/Projects/city-scale-roadaudit/release_version_v1.zip) 2.9GB
 
-[Link](url) and ![Image](src)
-```
+3.Along with the above dataset, we need to collect and label images of roads with different road conditions in our surroundings for training and evaluation.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**4. Solution**
+TBD
 
-### Jekyll Themes
+**5. Goal**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siju-samuel/road-and-damage-detection/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Develop an android app, which can be run on mobile phones. Using the phone&#39;s camera can detect and segment the road and damages. Save the damaged road frames with geo-tagging in phone&#39;s memory/cloud and visually highlight the road damage in the phone screen.
 
-### Support or Contact
+**6. Use cases**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1.         Self-driving cars can use this technology to detect the roads and the damages on the roads which will help in positioning the vehicle on a better path and help to regulate speed and suspension of vehicle based on the road conditions.
+
+2.     This APP can aid in improving the work of government organisations like NHAI/BBMP for evaluating the road conditions.
