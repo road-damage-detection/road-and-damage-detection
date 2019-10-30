@@ -1,0 +1,84 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wetroadpatch",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1095.0,
+          555.5
+        ],
+        [
+          1095.5,
+          553.0
+        ],
+        [
+          1094.0,
+          551.5
+        ],
+        [
+          1087.5,
+          550.0
+        ],
+        [
+          1088.0,
+          555.5
+        ],
+        [
+          1095.0,
+          555.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "sideroad",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1203.0,
+          579.5
+        ],
+        [
+          1203.5,
+          578.0
+        ],
+        [
+          1200.0,
+          575.5
+        ],
+        [
+          1199.5,
+          578.0
+        ],
+        [
+          1203.0,
+          579.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures0455_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}
