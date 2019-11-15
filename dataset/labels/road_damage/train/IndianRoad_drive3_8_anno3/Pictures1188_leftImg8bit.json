@@ -1,0 +1,51 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "rough road",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          99.63157894736844,
+          783.9473684210526
+        ],
+        [
+          352.2631578947368,
+          766.8421052631579
+        ],
+        [
+          441.7368421052632,
+          777.3684210526316
+        ],
+        [
+          358.8421052631579,
+          811.578947368421
+        ],
+        [
+          93.05263157894737,
+          818.1578947368421
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures1188_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}
