@@ -1,0 +1,63 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sideroad",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          886.0,
+          567.5
+        ],
+        [
+          893.5,
+          562.0
+        ],
+        [
+          893.0,
+          559.5
+        ],
+        [
+          888.0,
+          559.5
+        ],
+        [
+          887.0,
+          557.5
+        ],
+        [
+          883.5,
+          558.0
+        ],
+        [
+          883.5,
+          567.0
+        ],
+        [
+          886.0,
+          567.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures3636_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}

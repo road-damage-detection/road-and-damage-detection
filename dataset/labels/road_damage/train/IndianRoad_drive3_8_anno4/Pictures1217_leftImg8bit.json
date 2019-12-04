@@ -1,0 +1,75 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "obstruction",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          329.0,
+          655.5
+        ],
+        [
+          330.0,
+          651.5
+        ],
+        [
+          335.5,
+          651.0
+        ],
+        [
+          335.5,
+          648.0
+        ],
+        [
+          331.5,
+          647.0
+        ],
+        [
+          331.0,
+          643.5
+        ],
+        [
+          324.0,
+          643.5
+        ],
+        [
+          323.5,
+          651.0
+        ],
+        [
+          327.0,
+          651.5
+        ],
+        [
+          327.5,
+          655.0
+        ],
+        [
+          329.0,
+          655.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures1217_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}

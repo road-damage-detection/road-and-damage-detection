@@ -1,0 +1,100 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sideroad",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          875.0,
+          537.5
+        ],
+        [
+          876.0,
+          535.5
+        ],
+        [
+          871.5,
+          536.0
+        ],
+        [
+          872.0,
+          537.5
+        ],
+        [
+          875.0,
+          537.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "bump",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          995.0,
+          749.5
+        ],
+        [
+          981.5,
+          737.0
+        ],
+        [
+          978.0,
+          720.5
+        ],
+        [
+          633.0,
+          713.5
+        ],
+        [
+          608.5,
+          732.0
+        ],
+        [
+          676.0,
+          734.5
+        ],
+        [
+          711.0,
+          737.5
+        ],
+        [
+          848.0,
+          742.5
+        ],
+        [
+          860.0,
+          744.5
+        ],
+        [
+          995.0,
+          749.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures4331_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}

@@ -1,0 +1,67 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pothole",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          729.0,
+          722.5
+        ],
+        [
+          788.5,
+          715.0
+        ],
+        [
+          768.0,
+          692.5
+        ],
+        [
+          650.0,
+          690.5
+        ],
+        [
+          646.5,
+          697.0
+        ],
+        [
+          640.5,
+          717.0
+        ],
+        [
+          641.0,
+          718.5
+        ],
+        [
+          665.0,
+          720.5
+        ],
+        [
+          729.0,
+          722.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures1673_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}

@@ -1,0 +1,84 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sideroad",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1683.0,
+          595.5
+        ],
+        [
+          1683.0,
+          593.5
+        ],
+        [
+          1679.5,
+          594.0
+        ],
+        [
+          1683.0,
+          595.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pothole",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          851.0,
+          582.5
+        ],
+        [
+          850.0,
+          580.5
+        ],
+        [
+          844.0,
+          578.5
+        ],
+        [
+          814.0,
+          578.5
+        ],
+        [
+          811.5,
+          580.0
+        ],
+        [
+          827.0,
+          582.5
+        ],
+        [
+          851.0,
+          582.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures1871_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}

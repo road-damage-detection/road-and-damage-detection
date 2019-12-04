@@ -1,0 +1,59 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wetroadpatch",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          833.0,
+          626.5
+        ],
+        [
+          836.5,
+          621.0
+        ],
+        [
+          832.0,
+          609.5
+        ],
+        [
+          810.0,
+          608.5
+        ],
+        [
+          796.5,
+          610.0
+        ],
+        [
+          803.0,
+          626.5
+        ],
+        [
+          833.0,
+          626.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures1023_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}

@@ -1,0 +1,141 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sideroad",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          662.0,
+          572.5
+        ],
+        [
+          671.5,
+          571.0
+        ],
+        [
+          671.0,
+          557.5
+        ],
+        [
+          660.0,
+          557.5
+        ],
+        [
+          659.0,
+          559.5
+        ],
+        [
+          655.5,
+          560.0
+        ],
+        [
+          655.5,
+          572.0
+        ],
+        [
+          662.0,
+          572.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pothole",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          651.0,
+          636.5
+        ],
+        [
+          682.5,
+          634.0
+        ],
+        [
+          675.0,
+          628.5
+        ],
+        [
+          625.0,
+          626.5
+        ],
+        [
+          613.5,
+          636.0
+        ],
+        [
+          651.0,
+          636.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "wetroadpatch",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          686.0,
+          748.5
+        ],
+        [
+          765.0,
+          717.5
+        ],
+        [
+          796.5,
+          686.0
+        ],
+        [
+          732.0,
+          689.5
+        ],
+        [
+          714.0,
+          701.5
+        ],
+        [
+          712.0,
+          704.5
+        ],
+        [
+          664.5,
+          742.0
+        ],
+        [
+          668.0,
+          744.5
+        ],
+        [
+          686.0,
+          748.5
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures1868_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}
