@@ -1,0 +1,51 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wet road",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          12.78947368421052,
+          845.7894736842105
+        ],
+        [
+          266.736842105263,
+          783.9473684210526
+        ],
+        [
+          450.9473684210524,
+          732.6315789473683
+        ],
+        [
+          253.57894736842104,
+          836.578947368421
+        ],
+        [
+          6.21052631578948,
+          880.0
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "Pictures1195_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}
